@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.0.2)
+
+PROJECT(DAYTIME_TCP_UDP_ASYNC_SERVER)
+
+ADD_SUBDIRECTORY(src)
