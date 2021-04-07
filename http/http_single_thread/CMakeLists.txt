@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.0.2)
+
+PROJECT(HTTP_SERVER_SINGLE_THREAD)
+
+ADD_SUBDIRECTORY(src)
